@@ -1,0 +1,7 @@
+C:\Users\alexa\OneDrive\Desktop\SE Scripts\WingmanController\bin\x64\Debug\netframework48\WingmanController.dll
+C:\Users\alexa\OneDrive\Desktop\SE Scripts\WingmanController\bin\x64\Debug\netframework48\WingmanController.pdb
+C:\Users\alexa\OneDrive\Desktop\SE Scripts\WingmanController\obj\x64\Debug\netframework48\WingmanController.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\SE Scripts\WingmanController\obj\x64\Debug\netframework48\WingmanController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\SE Scripts\WingmanController\obj\x64\Debug\netframework48\WingmanController.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\SE Scripts\WingmanController\obj\x64\Debug\netframework48\WingmanController.dll
+C:\Users\alexa\OneDrive\Desktop\SE Scripts\WingmanController\obj\x64\Debug\netframework48\WingmanController.pdb
